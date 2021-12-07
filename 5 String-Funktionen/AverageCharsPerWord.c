@@ -4,8 +4,6 @@
 #include <string.h>
 #define MAX 12
 
-typedef unsigned char byte;
-
 bool isDiv(char *, const char *);
 
 int main()
