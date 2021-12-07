@@ -1,3 +1,9 @@
+/**
+    Sorts strings by alphabetical order
+    All rights reserved
+    Elia Karrer, 2021
+**/
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
